@@ -1,0 +1,170 @@
+{
+  "pays": "États-Unis",
+  "drapeau": "🇺🇸",
+  "symbole": "🐎",
+  "titre": "Échappée Relaxante au Cœur du Kentucky",
+  "budget_total": "Environ 800-900 €/personne",
+  "duree": "4 jours",
+  "temps_vol": "1h15 (vol direct ORD-SDF)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Louisville et Douce Immersion",
+      "legende": "Atterrissez à Louisville, la ville du Bourbon et du Derby. Après avoir récupéré votre voiture de location, installez-vous confortablement et profitez d'une première balade relaxante le long de la rivière Ohio, pour une mise en jambe en douceur.",
+      "lieu": "Louisville",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Louisville (SDF) et récupération de votre voiture de location, essentielle pour explorer la région.",
+        "<strong>🛏️</strong>: Installation à votre hôtel à Louisville, pour vous détendre après le voyage.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante sur le Waterfront Park de Louisville, offrant de belles vues sur la rivière Ohio et le pont Big Four."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Transport",
+          "texte": "Une voiture de location est indispensable pour explorer le Kentucky et ses environs, notamment pour se rendre à Hardyville et Mammoth Cave."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Exploration Souterraine et Naturelle",
+      "legende": "Aujourd'hui, cap sur Hardyville et le majestueux Parc National de Mammoth Cave. Plongez dans les profondeurs de la terre lors d'une visite guidée douce, puis profitez d'une marche paisible en surface, au cœur d'une nature préservée.",
+      "lieu": "Hardyville & Mammoth Cave",
+      "activites": [
+        "<strong>🚗</strong>: Route vers le Parc National de Mammoth Cave (environ 1h30 de Louisville), près de Hardyville.",
+        "<strong>🕳️</strong>: Visite guidée \"Frozen Niagara Tour\" à Mammoth Cave, une option accessible et moins exigeante pour admirer les formations rocheuses spectaculaires.",
+        "<strong>🌳</strong>: Courte randonnée facile sur l'un des sentiers du parc, comme le Green River Bluffs Trail, pour profiter de la sérénité de la forêt."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mammoth Cave National Park, Kentucky",
+          "categorie": "Parc National",
+          "coords": { "lat": 37.1878, "lng": -86.1009 }
+        },
+        {
+          "nom_recherche": "Green River Bluffs Trail, Mammoth Cave",
+          "categorie": "Sentier de randonnée",
+          "coords": { "lat": 37.1870, "lng": -86.1000 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Réservez votre tour de Mammoth Cave à l'avance, surtout en haute saison, car les places sont limitées."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🐎",
+      "titre": "Culture Équestre et Saveurs du Bourbon",
+      "legende": "Retour à Louisville pour une journée dédiée à ses icônes. Découvrez l'histoire des courses de chevaux au légendaire Churchill Downs, puis explorez l'artisanat local au musée de la batte de baseball avant de vous immerger dans l'univers du bourbon.",
+      "lieu": "Louisville",
+      "activites": [
+        "<strong>🏇</strong>: Visite de Churchill Downs, le célèbre hippodrome du Kentucky Derby, pour une immersion dans l'histoire équestre sans l'agitation des jours de course.",
+        "<strong>⚾</strong>: Exploration du Louisville Slugger Museum & Factory, où vous découvrirez la fabrication des célèbres battes de baseball.",
+        "<strong>🥃</strong>: Dégustation et visite à l'Evan Williams Bourbon Experience, pour comprendre le processus de fabrication du bourbon et savourer quelques échantillons."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Churchill Downs, Louisville",
+          "categorie": "Hippodrome",
+          "coords": { "lat": 38.2027, "lng": -85.7700 }
+        },
+        {
+          "nom_recherche": "Louisville Slugger Museum & Factory, Louisville",
+          "categorie": "Musée",
+          "coords": { "lat": 38.2562, "lng": -85.7602 }
+        },
+        {
+          "nom_recherche": "Evan Williams Bourbon Experience, Louisville",
+          "categorie": "Distillerie",
+          "coords": { "lat": 38.2555, "lng": -85.7600 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🛍️",
+          "titre": "Souvenirs",
+          "texte": "Le Louisville Slugger Museum propose des battes personnalisées, un souvenir unique de votre voyage."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Instants et Départ",
+      "legende": "Profitez d'un dernier petit-déjeuner typiquement américain. Selon l'heure de votre vol, vous pourrez faire quelques emplettes de dernière minute ou vous détendre dans un café local avant de prendre la route vers l'aéroport pour votre vol retour.",
+      "lieu": "Louisville",
+      "activites": [
+        "<strong>☕</strong>: Petit-déjeuner relaxant dans un café local de Louisville, pour savourer les dernières saveurs du Kentucky.",
+        "<strong>🎁</strong>: Temps libre pour les derniers achats de souvenirs ou une promenade paisible dans un quartier que vous avez apprécié.",
+        "<strong>🛫</strong>: Route vers l'aéroport SDF, restitution de la voiture de location et vol retour."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Timing",
+          "texte": "Prévoyez suffisamment de temps pour le retour de la voiture de location et les formalités à l'aéroport."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 287 €/pers (A/R ORD-SDF)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 100-140 €/pers (location voiture + essence)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 90-150 €/pers (30-50 €/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 150-225 €/pers (3 nuits en hôtel 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 80-110 €/pers (tours, musées, dégustations)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [{ "titre": "Mai à Octobre", "symbole": "☀️" }],
+  "infos_pratiques": [
+    { "titre": "En septembre, les températures au Kentucky varient entre 15 et 28°C. Prévoir des vêtements légers pour la journée et une petite veste pour les soirées fraîches.", "symbole": "☀️" },
+    { "titre": "Les cartes de crédit sont largement acceptées. Il est utile d'avoir un peu de liquide pour les petites dépenses ou les pourboires.", "symbole": "💳" },
+    { "titre": "Le permis de conduire français est suffisant pour louer une voiture. La conduite se fait à droite et les vitesses sont indiquées en miles par heure (mph).", "symbole": "🚗" },
+    { "titre": "Une eSIM ou une carte SIM locale (AT&T, Verizon) est recommandée pour la navigation GPS et la communication. Le Wi-Fi est disponible dans la plupart des hébergements.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Le saviez-vous ?", 
+      "texte": "Mammoth Cave est le plus long système de grottes connu au monde, avec plus de 675 kilomètres explorés. C'est un véritable labyrinthe souterrain !" 
+    },
+    { 
+      "symbole": "🙃", 
+      "titre": "Insolite", 
+      "texte": "Louisville abrite la plus grande batte de baseball du monde, mesurant 37 mètres de haut et pesant 30 tonnes, juste devant le Louisville Slugger Museum. Parfait pour un selfie géant !" 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🍗", 
+      "titre": "Kentucky Fried Chicken (KFC)", 
+      "description": "Bien que mondialement connu, le poulet frit du Colonel Sanders est né au Kentucky. Goûtez-le dans son berceau pour une expérience authentique." 
+    },
+    { 
+      "symbole": "🥃", 
+      "titre": "Bourbon", 
+      "description": "Le Kentucky est le berceau du bourbon. Ne manquez pas de déguster cette eau-de-vie de maïs vieillie en fût de chêne, un véritable emblème de l'État." 
+    },
+    { 
+      "symbole": "🥪", 
+      "titre": "Hot Brown", 
+      "description": "Un sandwich ouvert inventé à l'hôtel Brown de Louisville : dinde rôtie, sauce Mornay, bacon et tomates, le tout gratiné. Un délice réconfortant !" 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/ORD-SDF/2026-09-15/2026-09-19", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Kentucky", "url": "https://www.kentuckytourism.com/", "symbole": "📘" },
+    { "legende": "Parc National Mammoth Cave", "titre": "NPS Mammoth Cave", "url": "https://www.nps.gov/maca/index.htm", "symbole": "🏞️" },
+    { "legende": "Météo", "titre": "Météo Louisville", "url": "https://weather.com/weather/today/l/USKY0444:1:US", "symbole": "🌤️" }
+  ]
+}
